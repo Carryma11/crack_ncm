@@ -1,0 +1,5 @@
+pycryptodome
+eyed3
+tqdm
+psutil
+requests
